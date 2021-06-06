@@ -1,0 +1,50 @@
+[
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1762012,
+		"common": 111
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1749757,
+		"common": 111
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 57181998,
+		"common": 1792
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 723114399,
+		"common": 16777472
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338113309,
+		"common": 1536
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137227687,
+		"common": 1024
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 1745521,
+		"common": 111
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 57157614,
+		"common": 1792
+	}
+]
